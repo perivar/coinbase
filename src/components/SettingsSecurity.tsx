@@ -71,7 +71,7 @@ const SettingsSecurity = () => {
             PIN / Face ID Settings
           </Text>
           <Image
-            source={require('../assets/icons/1x/arrow.jpg')}
+            source={require('../../assets/icons/1x/arrow.jpg')}
             style={{ width: 10, height: 10 }}
           />
         </View>
@@ -136,7 +136,7 @@ const SettingsSecurity = () => {
             Support
           </Text>
           <Image
-            source={require('../assets/icons/1x/arrow.jpg')}
+            source={require('../../assets/icons/1x/arrow.jpg')}
             style={{ width: 10, height: 10 }}
           />
         </View>

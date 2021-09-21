@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, Image, SafeAreaView, ScrollView } from 'react-native';
-import SettingsAccount from './SettingsAccount';
-import SettingsSecurity from './SettingsSecurity';
+import SettingsAccount from '../components/SettingsAccount';
+import SettingsSecurity from '../components/SettingsSecurity';
 
 const Settings = () => {
   return (
@@ -53,7 +53,7 @@ const Settings = () => {
               </View>
               <View style={{ flex: 0.3 }}>
                 <Image
-                  source={require('../assets/icons/1x/box.jpeg')}
+                  source={require('../../assets/icons/1x/box.jpeg')}
                   style={{ height: 70, width: 70 }}
                 />
               </View>

@@ -40,7 +40,7 @@ const HomeRewards = () => {
                 Start earning
               </Text>
               <Image
-                source={require('../assets/icons/1x/medal.jpeg')}
+                source={require('../../assets/icons/1x/medal.jpeg')}
                 resizeMode="contain"
                 style={{
                   width: 300,

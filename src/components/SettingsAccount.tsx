@@ -24,7 +24,7 @@ const SettingsAccount = () => {
             Limits and features
           </Text>
           <Image
-            source={require('../assets/icons/1x/arrow.jpg')}
+            source={require('../../assets/icons/1x/arrow.jpg')}
             style={{ width: 10, height: 10 }}
           />
         </View>
@@ -44,7 +44,7 @@ const SettingsAccount = () => {
             Native currency
           </Text>
           <Image
-            source={require('../assets/icons/1x/arrow.jpg')}
+            source={require('../../assets/icons/1x/arrow.jpg')}
             style={{ width: 10, height: 10 }}
           />
         </View>
@@ -64,7 +64,7 @@ const SettingsAccount = () => {
             Country
           </Text>
           <Image
-            source={require('../assets/icons/1x/arrow.jpg')}
+            source={require('../../assets/icons/1x/arrow.jpg')}
             style={{ width: 10, height: 10 }}
           />
         </View>
@@ -84,7 +84,7 @@ const SettingsAccount = () => {
             Privacy
           </Text>
           <Image
-            source={require('../assets/icons/1x/arrow.jpg')}
+            source={require('../../assets/icons/1x/arrow.jpg')}
             style={{ width: 10, height: 10 }}
           />
         </View>
@@ -104,7 +104,7 @@ const SettingsAccount = () => {
             Phone Numbers
           </Text>
           <Image
-            source={require('../assets/icons/1x/arrow.jpg')}
+            source={require('../../assets/icons/1x/arrow.jpg')}
             style={{ width: 10, height: 10 }}
           />
         </View>
@@ -124,7 +124,7 @@ const SettingsAccount = () => {
             Notification settings
           </Text>
           <Image
-            source={require('../assets/icons/1x/arrow.jpg')}
+            source={require('../../assets/icons/1x/arrow.jpg')}
             style={{ width: 10, height: 10 }}
           />
         </View>

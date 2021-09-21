@@ -74,7 +74,7 @@ const Prices = () => {
                   alignItems: 'center',
                 }}>
                 <Image
-                  source={require('../assets/icons/1x/search.png')}
+                  source={require('../../assets/icons/1x/search.png')}
                   style={{ width: 20, height: 20 }}
                 />
               </View>
